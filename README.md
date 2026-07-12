@@ -1,4 +1,4 @@
-# Hi there, I'm b2ranand 👋
+# Hi there, I'm Anand Kumar 👋
 
 ### 💫 About Me
 I'm an AI & Data Science (AIDS) Engineering student who enjoys building full stack applications and solving Data Structures and Algorithms problems.
