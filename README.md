@@ -9,31 +9,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/b2ranand" target="_blank">
+  <a href="https://www.linkedin.com/in/anand-kumar-637080350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:b2ranand.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/b2ranand" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/b2ranand" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="30"/>
-  </a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://b2ranand.vercel.app">
-    <img src="https://img.shields.io/badge/✨%20View%20My%20Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="40" style="margin-bottom: 50px;" />
-  </a>
-
-  <br />
-  <br />
   <h3><i>"Code first, ask questions during the code review."</i></h3>
   <p>— b2ranand 🧩</p>
 </div>
