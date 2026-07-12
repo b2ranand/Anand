@@ -1,5 +1,16 @@
 # Hi there, I'm b2ranand 👋
 
+### 💫 About Me
+I'm an AI & Data Science (AIDS) Engineering student who enjoys building full stack applications and solving Data Structures and Algorithms problems.
+I mainly work with JavaScript, Node.js, MongoDB, and Next.js, and I like building tools that solve real-world problems.
+Currently focused on backend development, system design, and improving problem-solving skills.
+
+- 🔭 I'm currently working on **full-stack projects using the MERN/Next.js stack**
+- 🌱 I'm currently learning **System Design** and advanced **DSA patterns**
+- 👯 I'm looking to collaborate on **open-source full-stack projects**
+- 💬 Ask me about **JavaScript, Node.js, MongoDB, Next.js, or DSA**
+- ⚡ Fun fact: **I enjoy turning real-world problems into working code**
+
 ### 🛠️ Tech Stack & Tools
 
 <table align="center">
@@ -58,4 +69,25 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b2ranand&show_icons=true&theme=radical" alt="b2ranand's GitHub stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b2ranand&theme=radical" alt="b2ranand's streak stats" height="180"/>
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=b2ranand&theme=radical&no-frame=true&row=1&column=7" alt="b2ranand's GitHub Trophies"/>
+</div>
+
+<br/>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b2ranand&theme=react-dark" alt="b2ranand's contribution graph"/>
+</div>
+
+<br/>
+
+### 🔥 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b2ranand&layout=compact&theme=radical" alt="b2ranand's top languages"/>
 </div>
